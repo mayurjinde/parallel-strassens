@@ -41,6 +41,6 @@ The project 'Parallelizing Strassen’s Matrix Multiplication' has been created 
 
 ## Contributors  
 
-- Pratham Nayak (191IT241)  
-- Aprameya Dash (191IT209)  
-- Suyash Chintawar (191IT109) 
+- Mayur Jinde (201IT135)  
+- Sanket (201IT154)  
+- Shaulendra Kumar (201IT159) 
